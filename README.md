@@ -24,4 +24,4 @@ I'm a Computer Engineering graduate passionate about software development, build
 ### 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/vaibhavi-mahadik-b07abb338/
-- GitHub: [My GitHub Profile](YOUR_GITHUB_URL)
+- GitHub: https://github.com/repos?q=owner%3A%40me
