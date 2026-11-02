@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Vaibhavi Mahadik 👋
 
-<!--
-**vaibhavi2109/vaibhavi2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Web Developer
 
-Here are some ideas to get you started:
+I'm a Computer Engineering graduate passionate about software development, building responsive web applications, and exploring new technologies. I enjoy learning new skills and creating practical projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently improving my programming and software development skills.
+- 💻 Interested in HTML, CSS, JavaScript, React.js and SQL.
+- 🚀 Exploring real-world projects and collaborative development.
+- 🤝 Open to learning, collaboration and software development opportunities.
+
+### 🛠️ Technical Skills
+
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Programming:** Java, Python
+- **Database:** SQL
+- **Tools:** Git, GitHub, VS Code
+
+### 📌 Featured Projects
+
+- **Dynamic Cards App** – Dynamic card-based web application.
+- **Quiz App** – Educational quiz application developed using React Native and Expo.
+
+### 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/vaibhavi-mahadik-b07abb338/
+- GitHub: [My GitHub Profile](YOUR_GITHUB_URL)
